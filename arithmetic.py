@@ -7,4 +7,4 @@ print(a*b)
 print(a/b)
 print(a%b) #remainder
 print(a**b) #a^b
-print("hello")
+print("hello sanal")
