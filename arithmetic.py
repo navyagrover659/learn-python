@@ -11,4 +11,3 @@ print("hello sanal")
 print("hello navya")
 print("hello 1")
 print("hello 2")
-
