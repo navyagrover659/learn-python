@@ -6,3 +6,4 @@ elif("age >= 80"):
     print("cannot drive")
     print("A")
     print("B")
+    print("C")
